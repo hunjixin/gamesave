@@ -1,0 +1,4 @@
+[
+  { "type": "artifact_tool", "id": "artifact_0", "name": "[神器]鳞斑的念珠", "description": "这是一串小珠子，外表被爬行动物一样的鳞片所覆盖。", "sym": ":", "color": 2098944, "price": 0, "materials": [ "stone" ], "volume": 5, "weight": 290, "melee_dam": 0, "melee_cut": 0, "m_to_hit": 0, "item_flags": [  ], "techniques": [  ], "ammo": "NULL", "max_charges": 4, "def_charges": 4, "charges_per_use": 1, "turns_per_charge": 0, "charge_type": 5, "charge_req": 0, "effects_wielded": [  ], "effects_activated": [ 12 ], "effects_carried": [ 34 ], "dream_unmet": [ "The %s is somehow vaguely dissatisfied even though it doesn't want anything. Seeing this is a bug!" ], "dream_met": [ "The %s is satisfied, as it should be because it has no standards. Seeing this is a bug!" ], "dream_freq_unmet": 100, "dream_freq_met": 0
+  }
+]
